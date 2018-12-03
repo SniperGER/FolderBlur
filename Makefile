@@ -2,7 +2,7 @@ export THEOS_DEVICE_IP=192.168.178.39
 export THEOS_DEVICE_PORT=22
 export SDKROOT=iphoneos
 export SYSROOT=$(THEOS)/sdks/iPhoneOS11.2.sdk
-export PACKAGE_VERSION=0.0.1
+export PACKAGE_VERSION=0.0.2
 
 include $(THEOS)/makefiles/common.mk
 

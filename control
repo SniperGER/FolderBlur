@@ -2,7 +2,7 @@ Package: ml.festival.folderblur
 Name: FolderBlur
 Depiction: https://repo.festival.ml/package/ml.festival.folderblur
 Depends: mobilesubstrate, firmware (>= 11.0)
-Version: 0.0.1
+Version: 0.0.2
 Architecture: iphoneos-arm
 Description: Improving iOS 11’s blurred folders
 Maintainer: Sniper_GER <sniperger@festival.ml>
